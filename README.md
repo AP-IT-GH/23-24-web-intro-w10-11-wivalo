@@ -6,7 +6,7 @@ Tijdens de lessen van deze week herhalen we alle leerstof die tot nog toe hebben
 
 ## 🔍 Herhaling Project
 
-In dit labo ga je een grotere website in elkaar steken op basis van de printscreens hieronder.
+In dit labo ga je een grotere website in elkaar steken op basis van de printscreens in de map `.readme-files`.
 
 Met behulp van de kennis uit Webtechnologie Intro probeer je deze website zo goed èn zelfstandig mogelijk na te maken.
 
@@ -21,7 +21,8 @@ Met behulp van de kennis uit Webtechnologie Intro probeer je deze website zo goe
 ### RECEPTEN & CONTACT
 
  - [ ] Deze pagina's werden gemaakt tijdens labo 8. Gebruik je werk uit dit labo als vertrekpunt (kopieer je bestand(en) van dat labo naar dit project). 
- - [ ] hernoem je bestanden naar `recepten.html` en `contact.html`.
+ - [ ] hernoem je html-bestanden naar `recepten.html` en `contact.html`.
+ - [ ] kopieer ook je javascript bestanden uit labo 8.
  - [ ] Bekijk de printscreens goed, en werk de pagina zo verder af.
  - [ ] Plaats ook eigen icoontjes op de Leaflet-kaart. 
  - [ ] Pas de Leaflet-kaart verder aan zoals op de printscreens.

@@ -1,4 +1,4 @@
-/*Haal 6 pseudo-gebruikers op met behulp van de fetch-methode.
+/* Haal 6 pseudo-gebruikers op met behulp van de fetch-methode.
 Gebruik hiervoor de https://randomuser.me/ API.
 Geef voor elke user zijn/haar profiel foto (large), volledige naam en locatie weer.
 */
